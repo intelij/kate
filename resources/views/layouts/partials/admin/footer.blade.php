@@ -17,7 +17,6 @@
 <script type="text/javascript" src="/assets/js/progressbar.js"></script>
 <script type="text/javascript" src="/assets/js/slider.js"></script>
 <script type="text/javascript" src="/assets/js/timepicker.js"></script>
-<script type="text/javascript" src="https://maps.google.com/maps/api/js?key=AIzaSyDy4PSaTTTHkykjcw7s1pkJ5yJQWsCo97M"></script>
 <script type="text/javascript" src="/assets/js/googlemaps1.js"></script>
 <!-- Custom script for all pages -->
 <script type="text/javascript" src="/assets/js/script.js"></script>
